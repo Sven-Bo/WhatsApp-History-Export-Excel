@@ -11,20 +11,10 @@ I will show you, how you can easily do this by using Python & the Pushbullet API
 [![YouTube Video](https://img.youtube.com/vi/i62VbGSI93A/0.jpg)](https://youtu.be/i62VbGSI93A)
 
 
-## 🤓 Check Out My Excel Add-ins
-I've developed some handy Excel add-ins that you might find useful:
+## 💡 Explore My Solutions
+From Excel add-ins to messaging tools and logistics solutions.
 
-- 📊 **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
-- 🎨 **[Cartoon Charts Add-In](https://pythonandvba.com/cuteplots)**: Create engaging and fun cartoon-style charts.
-- 🤪 **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
-- 🛠️ **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
-  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
-  - ChatGPT integration for advanced data analysis
-  - And much more!
-
-
-
-## 🤝 Connect with Me
+👉 **[See All Solutions](https://pythonandvba.com/solutions)**## 🤝 Connect with Me
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
 - 💬 **Discord:** [Join the Community](https://pythonandvba.com/discord)
